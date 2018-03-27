@@ -36,7 +36,7 @@ for($i=0;$i<=10;$i++){
 
 	}
 	$out.="</tr>\n";
-	// echo $out;
+	
 
 }
 require "maket.tpl";
