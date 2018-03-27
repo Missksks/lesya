@@ -1,0 +1,43 @@
+.style-table{
+
+	border: 1px solid black;
+	text-align: center;
+
+
+}
+tr{
+	color: black;
+	font-size: 40px;
+
+
+}
+td{
+	margin:100px;
+	padding: 10px;
+	border-top:1px solid black; 
+	border-bottom:1px solid black; 
+	border-left:1px solid black; 
+	border-right: 1px solid black;
+	background: #fffdfd;  
+	text-align: center;
+
+	
+
+}
+td:hover{
+	color: red;
+}
+table{
+	margin-left: 642px;
+	margin-top: 191px;
+	text-align: center;
+	margin-top:0px; 
+}
+h1{
+	font-style: oblique;
+    font-size: 80px;
+}
+h1:hover{
+	color: red;
+
+}
